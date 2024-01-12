@@ -1,5 +1,5 @@
 ## About The Project <a id="top"></a>
-A Python script that retrieves the current price and all-time high of a custom list of stocks, including crypto, from Yahoo! Finance. The script can displays the data directly via console.
+A Python script that retrieves the current price and all-time high of a custom list of stocks, including crypto, from Yahoo! Finance. The script displays the data directly via console.
 
 ## Getting Started
 Given that [Python 3.11+](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/) are installed and correctly configured in the system:
