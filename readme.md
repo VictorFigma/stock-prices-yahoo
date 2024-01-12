@@ -5,6 +5,7 @@ A Python script that retrieves the current price and all-time high of a custom l
 Given that [Python 3.11+](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/) are installed and correctly configured in the system:
 
 Install  `yfinance`  using  `pip`:
+
 ```pip install yfinance --upgrade --no-cache-dir```
 
 ## Execution
