@@ -25,5 +25,3 @@ Install  `yfinance`  using  `pip`:
 
 ## License
 This project has been built for my personal research usage only. While I don't mind if you use it to build your own project, you must comply with  [yfinance](https://github.com/ranaroussi/yfinance), [Yahoo API](https://legal.yahoo.com/us/en/yahoo/terms/product-atos/apiforydn/index.html), and [Yahoo](https://policies.yahoo.com/us/en/yahoo/terms/index.htm) terms of use.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
