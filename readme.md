@@ -18,9 +18,11 @@ Install  `yfinance`  using  `pip`:
 2. The **all-time highs are NOT calculated by default** since it implies getting all the historical values of all the listed stocks. You can re-calculate them every time you want using the `-update` option.
 	
 	***2.A***  [Console] Update the all-time highs stored values and run the script afterward.
+   
 	```python3 stock-prices-yahoo.py -update``` 
 	
 	***2.B*** [Console] Run the script using the stored all-time highs values.
+   
 	```./stock-prices-yahoo.py```
 
 ## License
