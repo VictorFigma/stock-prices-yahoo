@@ -29,4 +29,4 @@ def print_all_info():
             stock_max = -1
         print(f"        {name}              {stock_list[name]}                  {get_stock_price(stock_list[name]):.2f}                  {stock_max}")
     if require_update:
-        print(f"Run \".\stock-prices-yahoo.py -update\" to get the missing all-time hights")
+        print(f"Run \".\stock-prices-yahoo.py -update\" to get the missing all-time highs")
